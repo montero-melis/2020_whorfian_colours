@@ -186,3 +186,7 @@ rsconnect/
 ######################################################
 
 exp_design/*.pdf
+orientation_online/frinex/pw.txt
+*.zip
+orientation_online/frinex/results*
+orientation_online/frinex/feedback_images/*
